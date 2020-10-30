@@ -1,4 +1,4 @@
-# Abstractive-Summarisation---Facebook-Bart-CNN-Model
+# Abstractive Summarisation - Facebook-Bart-CNN-Model
 
 # Overview
 The Bart model was proposed in BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension by Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov and Luke Zettlemoyer on 29 Oct, 2019.
